@@ -2,8 +2,9 @@
 <div id="header" align="center">
 <img src="https://giphy.com/embed/IbCcsxPmxGzKugAa70"></img>
 </div>
+
 <h3>Learn a little bit more about me and what I do here: </h3> 
-<div id="badges" align="center>
+<div id="badges" align="center">
   <a  target="_blank" href="https://www.linkedin.com/in/isabela-caldeira-a98b7922b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
