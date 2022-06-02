@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFC95BDA&lines=Hey%2C+you+there!+;Let's+talk+code!!!)](https://git.io/typing-svg)
 <div id="header" align="center">
-<iframe src="https://giphy.com/embed/SUcApSWjPwQMARvcM8"  class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/SUcApSWjPwQMARvcM8"  ></iframe>
 </div>
 
 <div id="badges" align="center">
