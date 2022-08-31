@@ -9,15 +9,18 @@
     const Isabela Caldeira = {
 
       self.pronouns: "Ela" | "Dela",
+      self.origin: "Brasil",
+      self.location: "Brasil",
       self.code: ["Python", "Javascript", "Typescript", "Nodejs", "HTMl", "CSS"],
       me.Pergunte_Sobre: ["Programação", "Tecnologia", "Arte", "Ativismo"],
       self.roles:["Desenvolvedora de softwares", "Ativista", "Artista"],
       self.Spoken_Languages:["Português", "Inglês","Francês"],
       self.curiosities: "Apaixonada por tecnologia, educação e uma boa xícara de café",
    
-  };
+  }
 };
 ```
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <div id="badges" align="center">
   <h3>Quer falar comigo ou saber um pouco mais de mim? </br>
