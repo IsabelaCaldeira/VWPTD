@@ -23,14 +23,14 @@
   <div aling="center">
   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=VWPTD&theme=github_dark&show_icons=true/>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
   </div>
 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-  <h3>Quer falar comigo<br> ou</br> saber um pouco mais de mim? </br>
+<div id="badges" align="center">
+  <h3>Quer falar comigo ou saber um pouco mais de mim? </br>
   Então é por aqui: </h3> 
-  <div id="badges" align="center">
   <a  target="_blank" href="https://www.linkedin.com/in/isabela-caldeira-a98b7922b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
