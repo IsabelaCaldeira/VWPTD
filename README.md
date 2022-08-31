@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFC95BDA&lines=Hey%2C+you+there!+;Let's+talk+code!!!)](https://git.io/typing-svg)
-<iframe src="https://giphy.com/embed/SUcApSWjPwQMARvcM8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div id="header" align="center">
+</div>
 
 
-<h3>Learn a little bit more about me and what I do here: </h3> 
 <div id="badges" align="center">
+  <h3>Learn a little bit more about me and what I do here: </h3> 
   <a  target="_blank" href="https://www.linkedin.com/in/isabela-caldeira-a98b7922b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
