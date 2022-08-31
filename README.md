@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+voc%C3%AA!!!+Seja+bem-vinde!;Vamos+falar+de+c%C3%B3digo%3F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+voc%C3%AA!!!+Seja+bem-vinde!;Vamos+falar+de+%3Cc%C3%B3digo%3E%3F" alt="Typing SVG" /></a>
 </div>
 
 ```javascript
@@ -31,4 +31,5 @@
   <a  target="_blank" href="https://www.instagram.com/_belacaldeira/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a target="_blank" href="mailto:isabela.ribeiro@outlook.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
