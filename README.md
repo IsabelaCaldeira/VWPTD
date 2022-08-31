@@ -20,6 +20,11 @@
 };
 ```
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <div aling="center">
+  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=VWPTD&theme=github_dark&show_icons=true/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VWPTD&layout=compact&langs_count=7&theme=dracula"/>
+
+  </div>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
@@ -32,5 +37,5 @@
   <a  target="_blank" href="https://www.instagram.com/_belacaldeira/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a target="_blank" href="mailto:isabela.ribeiro@outlook.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <a target="_blank" href="mailto:isabela.ribeiro@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
