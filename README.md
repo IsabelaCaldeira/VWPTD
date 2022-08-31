@@ -22,11 +22,11 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   <div aling="center">
   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=VWPTD&theme=github_dark&show_icons=true/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VWPTD&layout=compact&langs_count=7&theme=dracula"/>
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
   </div>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <div id="badges" align="center">
   <h3>Quer falar comigo ou saber um pouco mais de mim? </br>
