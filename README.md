@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+voc%C3%AA!!!+Seja+bem-vinde!;Vamos+falar+de+%3Cc%C3%B3digo%3E%3F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+voc%C3%AA!!!+Seja+bem-vinde!;Vamos+falar+de+%3Cc%C3%B3digo%3E+%3D+%7B" alt="Typing SVG" /></a>
 </div>
 
 ```javascript
@@ -16,10 +16,11 @@
       self.roles:["Desenvolvedora de softwares", "Ativista", "Artista"],
       self.Spoken_Languages:["Português", "Inglês","Francês"],
       self.curiosities: "Apaixonada por tecnologia, educação e uma boa xícara de café",
-   
-  }
+   }
 };
 ```
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <div id="badges" align="center">
