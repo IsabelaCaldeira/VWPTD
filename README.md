@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+voc%C3%AA!!;Seja+bem-vinde;Vamos+falar+de+c%C3%B3digo%3F)](https://git.io/typing-svg)
 <div id="header" align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+voc%C3%AA!!;Seja+bem-vinde;Vamos+falar+de+c%C3%B3digo%3F)](https://git.io/typing-svg)
+
 </div>
 
 ```javascript
