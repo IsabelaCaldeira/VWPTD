@@ -10,9 +10,9 @@
 
       self.pronouns: "Ela" | "Dela",
       self.code: ["Python", "Javascript", "Typescript", "Nodejs", "HTMl", "CSS"],
-       me.Pergunte_Sobre: ["Programação", "Tecnologia", "Arte", "Ativismo"],
-       self.roles:["Desenvolvedora de softwares", "Ativista", "Artista"],
-      self.Spoken_Languages:["Português", "Inglês","Francês"]
+      me.Pergunte_Sobre: ["Programação", "Tecnologia", "Arte", "Ativismo"],
+      self.roles:["Desenvolvedora de softwares", "Ativista", "Artista"],
+      self.Spoken_Languages:["Português", "Inglês","Francês"],
       self.curiosities: "Apaixonada por tecnologia, educação e uma boa xícara de café",
    
   };
