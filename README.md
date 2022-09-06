@@ -4,10 +4,6 @@
 </div>
 
 ```javascript
-npx VWPTD
-```
-
-```javascript
   class serHumano = {  
     
     const Isabela Caldeira = {
