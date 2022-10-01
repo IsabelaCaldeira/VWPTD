@@ -4,20 +4,20 @@
 </div>
 
 ```javascript
-  class serHumano = {  
+  class SerHumano:  
     
-    const Isabela Caldeira = {
+    def __IsabelaCaldeira__(self, pronouns, origin, location, code, about, roles,spoken_languages, curiosities):
 
-      self.pronouns: "Ela" | "Dela",
-      self.origin: "Brasil",
-      self.location: "Brasil",
-      self.code: ["Python", "Javascript", "Typescript", "Nodejs", "HTMl", "CSS"],
-      me.Pergunte_Sobre: ["Programação", "Tecnologia", "Arte", "Ativismo"],
-      self.roles:["Desenvolvedora de softwares", "Ativista", "Artista"],
-      self.Spoken_Languages:["Português", "Inglês","Francês"],
-      self.curiosities: "Apaixonada por tecnologia, educação e uma boa xícara de café",
-   }
-};
+      self.pronouns = "She" | "Her"
+      self.origin = "Brazil"
+      self.location = "Brazil"
+      self.code = ["Python", "Javascript", "Typescript", "Nodejs", "HTMl", "CSS"]
+      self_about = ["Programming", "Technology", "Art", "Activism"]
+      self.roles =["Software Developer", "Activist", "Artist"]
+      self.Spoken_Languages:["pt-br", "eng","fr"]
+      self.curiosities = "in love with tech, education and a good cup of coffee"
+   
+
 ```
  
   <div align="center">
