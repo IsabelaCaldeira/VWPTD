@@ -6,7 +6,7 @@
 ```javascript
   class SerHumano:  
     
-    def __IsabelaCaldeira__(self, pronouns, origin, location, code, about, roles,spoken_languages, curiosities):
+    def __IsabelaCaldeira__(self, pronouns, origin, location, code, about, roles, spoken_languages, curiosities):
 
       self.pronouns = "She" | "Her"
       self.origin = "Brazil"
@@ -14,7 +14,7 @@
       self.code = ["Python", "Javascript", "Typescript", "Nodejs", "HTMl", "CSS"]
       self_about = ["Programming", "Technology", "Art", "Activism"]
       self.roles =["Software Developer", "Activist", "Artist"]
-      self.Spoken_Languages:["pt-br", "eng","fr"]
+      self.spoken_languages:["pt-br", "eng","fr"]
       self.curiosities = "I am in love with tech, education and a good cup of coffee"
    
 
