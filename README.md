@@ -15,7 +15,7 @@
       self_about = ["Programming", "Technology", "Art", "Activism"]
       self.roles =["Software Developer", "Activist", "Artist"]
       self.Spoken_Languages:["pt-br", "eng","fr"]
-      self.curiosities = "in love with tech, education and a good cup of coffee"
+      self.curiosities = "I am in love with tech, education and a good cup of coffee"
    
 
 ```
