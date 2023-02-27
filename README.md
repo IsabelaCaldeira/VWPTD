@@ -14,9 +14,10 @@
       self.code = ["Python", "Javascript", "Typescript", "Nodejs", "HTMl", "CSS"]
       self_about = ["Programming", "Technology", "Art", "Activism"]
       self.roles =["Software Developer", "Activist", "Artist"]
+      self.workPlace = "Jaguar Mining Inc"
       self.spoken_languages:["pt-br", "eng","fr"]
       self.curiosities = "I am in love with tech, education and a good cup of coffee"
-      self.job = "Jaguar Mining Inc"
+      
    
 
 ```
