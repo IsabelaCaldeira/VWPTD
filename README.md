@@ -6,16 +6,16 @@
 ```javascript
   class SerHumano:  
     
-    def __IsabelaCaldeira__(self, pronouns, origin, location, code, about, roles, spoken_languages, curiosities):
+    def __IsabelaCaldeira__(self, pronouns, origin, location, code, interest, roles, work_place, spoken_languages, curiosities):
 
       self.pronouns = "She" | "Her"
       self.origin = "Brazil"
       self.location = "Brazil"
       self.code = ["Python", "Javascript", "Typescript", "Nodejs", "HTMl", "CSS"]
-      self.about = ["Programming", "Technology", "Art", "Activism"]
-      self.roles =["Software Developer", "IT Assistant", "Activist", "Artist"]
-      self.workPlace = "Jaguar Mining Inc"
-      self.spoken_languages:["pt-br", "eng","fr"]
+      self.roles = ["Software Developer", "IT Assistant", "Activist", "Artist"]
+      self.work_place = "Jaguar Mining Inc"
+      self.spoken_languages = ["pt-br", "eng","fr"]
+      self.interest = ["Programming", "Technology", "Art", "Activism"]
       self.curiosities = "I am in love with tech, education and a good cup of coffee"
       
    
