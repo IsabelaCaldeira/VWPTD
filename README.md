@@ -16,6 +16,7 @@
       self.roles =["Software Developer", "Activist", "Artist"]
       self.spoken_languages:["pt-br", "eng","fr"]
       self.curiosities = "I am in love with tech, education and a good cup of coffee"
+      self.job = "Jaguar Mining Inc"
    
 
 ```
