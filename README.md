@@ -30,7 +30,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <div id="badges" align="center">
-  <h3>Quer falar comigo ou saber um pouco mais de mim? </br>
+  <h3>Do you want to know a little bit more about me? </br>
   Então é por aqui: </h3> 
   <a  target="_blank" href="https://www.linkedin.com/in/isabela-caldeira-a98b7922b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
