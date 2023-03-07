@@ -31,7 +31,7 @@
 
 <div id="badges" align="center">
   <h3>Do you want to know a little bit more about me? </br>
-  You can see more here: </h3> 
+  Here is the way: </h3> 
   <a  target="_blank" href="https://www.linkedin.com/in/isabela-caldeira-a98b7922b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
